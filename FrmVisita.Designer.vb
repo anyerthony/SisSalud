@@ -563,7 +563,7 @@ Partial Class FrmVisita
         Me.TabPage9.Padding = New System.Windows.Forms.Padding(3)
         Me.TabPage9.Size = New System.Drawing.Size(1270, 334)
         Me.TabPage9.TabIndex = 4
-        Me.TabPage9.Text = "Entrevista clinica**"
+        Me.TabPage9.Text = "Entrevista clinica"
         Me.TabPage9.UseVisualStyleBackColor = True
         '
         'TextBoxX28
