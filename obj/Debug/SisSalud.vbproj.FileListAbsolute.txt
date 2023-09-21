@@ -1,0 +1,197 @@
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\bin\Debug\SisSalud.exe
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\bin\Debug\SisSalud.pdb
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\bin\Debug\SisSalud.xml
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmIntegralFacturas.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.MDIPrincipal.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.Resources.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.vbproj.GenerateResource.Cache
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.exe
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.xml
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.pdb
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\bin\Debug\SisSalud.exe.config
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmIngresosPorFacturas.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmLogin.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmIntegral_MigrarDocumentos.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmIntegral_Facturar.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmIntegral_Ingreso.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmPagador.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmSelEmpresa.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmMañongoExport.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmAseguradorasClientes.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmTipoSel.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmArticulo.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmModificacionPreciosIngresos.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmModificarPrecioPromocion.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmBusquedaIngresos.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmCotizacionExcel.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmSelSucursal.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmFacturarTarjetas.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmBuscarPaciente.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmClientes.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmBuscarDocumentos.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmIntegral_CrearNotas.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmAnularDocumentos.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmBuscarClientes.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmFacturarServicio.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmBuscarAseguradora.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmReportes.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmIntegral_Cobros.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmModificacionNroCtrl.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmConsultorios.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmBuscarEmpresas.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmFacturacionAltamira.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmActualizarCorrelativos.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmCtrlAcceso.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmCrearIngreso.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmBuscarPacienteAgotamiento.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmParametrosUsuarios.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\SisSalud\obj\Debug\SisSalud.FrmConfiguracion.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\bin\Debug\SisSalud.exe.config
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.exe
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.xml
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.pdb
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmActualizarCorrelativos.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmAnularDocumentos.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmArticulo.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmAseguradorasClientes.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmBuscarAseguradora.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmBuscarClientes.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmBuscarDocumentos.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmBuscarEmpresas.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmBuscarPaciente.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmBuscarPacienteAgotamiento.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmBusquedaIngresos.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmClientes.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmConfiguracion.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmConsultorios.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmCotizacionExcel.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmCrearIngreso.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmCtrlAcceso.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmFacturacionAltamira.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmFacturarServicio.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmFacturarTarjetas.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmImprimirFactura.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmIntegral_Cobros.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmIntegral_CrearNotas.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmIntegral_Facturar.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmIntegral_Ingreso.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmIngresosPorFacturas.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmIntegralFacturas.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmIntegral_MigrarDocumentos.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmLogin.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmMañongoExport.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmModificacionNroCtrl.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmModificacionPreciosIngresos.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmModificarPrecioPromocion.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmPagador.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmParametrosUsuarios.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmReportes.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmSelEmpresa.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmSelSucursal.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmTipoSel.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.MDIPrincipal.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.Resources.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.vbproj.GenerateResource.Cache
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\bin\Debug\SisSalud.exe
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\bin\Debug\SisSalud.pdb
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\bin\Debug\SisSalud.xml
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmActualizarTasas.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmComentario.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmParametros_OtrosUsuarios.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmVisita.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmCambiarTasaIngreso.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\bin\Debug\SisSalud.exe.config
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.exe
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.xml
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.pdb
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\bin\Debug\SisSalud.exe
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\bin\Debug\SisSalud.pdb
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\bin\Debug\SisSalud.xml
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmActualizarCorrelativos.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmActualizarTasas.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmAnularDocumentos.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmArticulo.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmAseguradorasClientes.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmBuscarAseguradora.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmBuscarClientes.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmBuscarDocumentos.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmBuscarEmpresas.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmBuscarPaciente.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmBuscarPacienteAgotamiento.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmBusquedaIngresos.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmCambiarTasaIngreso.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmClientes.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmComentario.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmConfiguracion.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmConsultorios.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmCotizacionExcel.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmCrearIngreso.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmCtrlAcceso.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmFacturacionAltamira.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmFacturarServicio.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmFacturarTarjetas.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmImprimirFactura.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmIntegral_Cobros.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmIntegral_CrearNotas.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmIntegral_Facturar.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmIntegral_Ingreso.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmIngresosPorFacturas.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmIntegralFacturas.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmIntegral_MigrarDocumentos.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmLogin.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmMañongoExport.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmModificacionNroCtrl.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmModificacionPreciosIngresos.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmModificarPrecioPromocion.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmPagador.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmParametrosUsuarios.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmParametros_OtrosUsuarios.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmReportes.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmSelEmpresa.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmSelSucursal.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmTipoSel.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.FrmVisita.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.MDIPrincipal.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.Resources.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud 13 06 2023\obj\Debug\SisSalud.vbproj.GenerateResource.Cache
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmBotonera.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmBuscarPaquete.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmPaciente.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmConceptos.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmTablaClientes.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmActualizarTasaAseguradora.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmBaremo.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmCiudades.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmBusqueda.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmCompanias.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmPistas.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmPaises.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmNivelesEducativos.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmZonas.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmDependencias.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmFormatosFactura.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmProfeciones.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmBaremos.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmImagenes.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.MDI_PrincipalV2.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmTiposAntecedentesMedicos.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmAntecedentesMedicos.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmOrtografia.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.vbproj.ResolveComReference.cache
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmAntecedentesLaborales.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmClasificacionRiesgos.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmRiesgosLaborales.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmEquiposLaborales.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmEmpresas.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmGrupoEmpresas.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmAsignarBaremos.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmBusquedaQry.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmMotivos.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmEspecialidades.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmPaquetes.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmClasificacionConceptos.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmAgencias.resources
+C:\Users\jmujica\Documents\Visual Studio 2008\Projects\SisSalud\obj\Debug\SisSalud.FrmDoctores.resources

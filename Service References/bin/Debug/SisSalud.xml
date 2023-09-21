@@ -1,0 +1,2744 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SisSalud
+</name>
+</assembly>
+<members>
+<member name="T:SisSalud.DataSet_test.ANTECEDENTES_MEDICOSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_test.CLIENTES_ANTECEDENTES_MEDICOSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_test.ASEGURADORAS_INTEGRAL_EXTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_test.AUDITORIADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_test.BAREMOSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_test.CIUDADESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_test.CLASIFICACION_CONDICION_LABORALDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_test.CLASIFICACION_RIESGO_LABORALDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_test.CLIENTESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_test.CLIENTES_ANTECEDENTES_LABORALESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_test.ANTECEDENTES_MEDICOSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_test.CLIENTES_ANTECEDENTES_MEDICOSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_test.ASEGURADORAS_INTEGRAL_EXTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_test.AUDITORIARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_test.BAREMOSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_test.CIUDADESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_test.CLASIFICACION_CONDICION_LABORALRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_test.CLASIFICACION_RIESGO_LABORALRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_test.CLIENTESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_test.CLIENTES_ANTECEDENTES_LABORALESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_test.ANTECEDENTES_MEDICOSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_test.CLIENTES_ANTECEDENTES_MEDICOSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_test.ASEGURADORAS_INTEGRAL_EXTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_test.AUDITORIARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_test.BAREMOSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_test.CIUDADESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_test.CLASIFICACION_CONDICION_LABORALRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_test.CLASIFICACION_RIESGO_LABORALRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_test.CLIENTESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_test.CLIENTES_ANTECEDENTES_LABORALESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_test">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SisSalud.DataSet_testTableAdapters.ANTECEDENTES_MEDICOSTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_testTableAdapters.CLIENTES_ANTECEDENTES_MEDICOSTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_testTableAdapters.ASEGURADORAS_INTEGRAL_EXTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_testTableAdapters.AUDITORIATableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_testTableAdapters.BAREMOSTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_testTableAdapters.CIUDADESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_testTableAdapters.CLASIFICACION_CONDICION_LABORALTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_testTableAdapters.CLASIFICACION_RIESGO_LABORALTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_testTableAdapters.CLIENTESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_testTableAdapters.CLIENTES_ANTECEDENTES_LABORALESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SisSalud.DataSet_testTableAdapters.TableAdapterManager.UpdateUpdatedRows(SisSalud.DataSet_test,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SisSalud.DataSet_testTableAdapters.TableAdapterManager.UpdateInsertedRows(SisSalud.DataSet_test,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SisSalud.DataSet_testTableAdapters.TableAdapterManager.UpdateDeletedRows(SisSalud.DataSet_test,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SisSalud.DataSet_testTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SisSalud.DataSet_testTableAdapters.TableAdapterManager.UpdateAll(SisSalud.DataSet_test)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SisSalud.DataSet_testTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SisSalud.DataSet_testTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SisSalud.DataSet_testTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:SisSalud.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SisSalud.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:SisSalud.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.ASEGURADORAS_INTEGRAL_EXTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.AUDITORIADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.CIUDADESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.CLIENTESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.CLIENTES_CLIENTESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.COMPAÑIASDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.CONFIG_PARAMETROS_INTERNOSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.DEPENDENCIA_EMPRESASDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.DEPENDENCIASDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.FORMATOS_FACTURADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.IMAGENESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.NIVELES_EDUCATIVOSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.PAISESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.PROFECIONESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.sysdiagramsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.VISITAS_INTEGRAL_EXTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.ZONASDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.PISTASDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.vTIPOS_CLIENTEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.BAREMOSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.vTIPOS_SANGREDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.vLATERALIDADESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.vESTADO_CIVILDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.vSEXODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.CLIENTES_ANTECEDENTES_MEDICOSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.ANTECEDENTES_MEDICOSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.TIPO_ANTECEDENTE_MEDICODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.CLIENTES_ANTECEDENTES_LABORALESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.CLASIFICACION_RIESGO_LABORALDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.CLASIFICACION_CONDICION_LABORALDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.CONDICIONES_LABORALESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.RIESGOS_LABORALESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.RIESGOS_ANTECEDENTE_LABORALDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.CONDICIONES_ANTECEDENTE_LABORALDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.EQUIPOS_LABORALESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.EQUIPOS_ANTECEDENTE_LABORALDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.ARCHIVOSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.ASEGURADORAS_INTEGRAL_EXTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.AUDITORIARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.CIUDADESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.CLIENTESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.CLIENTES_CLIENTESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.COMPAÑIASRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.CONFIG_PARAMETROS_INTERNOSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.DEPENDENCIA_EMPRESASRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.DEPENDENCIASRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.FORMATOS_FACTURARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.IMAGENESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.NIVELES_EDUCATIVOSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.PAISESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.PROFECIONESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.sysdiagramsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.VISITAS_INTEGRAL_EXTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.ZONASRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.PISTASRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.vTIPOS_CLIENTERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.BAREMOSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.vTIPOS_SANGRERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.vLATERALIDADESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.vESTADO_CIVILRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.vSEXORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.CLIENTES_ANTECEDENTES_MEDICOSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.ANTECEDENTES_MEDICOSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.TIPO_ANTECEDENTE_MEDICORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.CLIENTES_ANTECEDENTES_LABORALESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.CLASIFICACION_RIESGO_LABORALRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.CLASIFICACION_CONDICION_LABORALRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.CONDICIONES_LABORALESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.RIESGOS_LABORALESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.RIESGOS_ANTECEDENTE_LABORALRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.CONDICIONES_ANTECEDENTE_LABORALRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.EQUIPOS_LABORALESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.EQUIPOS_ANTECEDENTE_LABORALRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.ARCHIVOSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.ASEGURADORAS_INTEGRAL_EXTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.AUDITORIARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.CIUDADESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.CLIENTESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.CLIENTES_CLIENTESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.COMPAÑIASRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.CONFIG_PARAMETROS_INTERNOSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.DEPENDENCIA_EMPRESASRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.DEPENDENCIASRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.FORMATOS_FACTURARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.IMAGENESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.NIVELES_EDUCATIVOSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.PAISESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.PROFECIONESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.sysdiagramsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.VISITAS_INTEGRAL_EXTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.ZONASRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.PISTASRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.vTIPOS_CLIENTERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.BAREMOSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.vTIPOS_SANGRERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.vLATERALIDADESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.vESTADO_CIVILRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.vSEXORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.CLIENTES_ANTECEDENTES_MEDICOSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.ANTECEDENTES_MEDICOSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.TIPO_ANTECEDENTE_MEDICORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.CLIENTES_ANTECEDENTES_LABORALESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.CLASIFICACION_RIESGO_LABORALRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.CLASIFICACION_CONDICION_LABORALRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.CONDICIONES_LABORALESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.RIESGOS_LABORALESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.RIESGOS_ANTECEDENTE_LABORALRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.CONDICIONES_ANTECEDENTE_LABORALRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.EQUIPOS_LABORALESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.EQUIPOS_ANTECEDENTE_LABORALRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS.ARCHIVOSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.ASEGURADORAS_INTEGRAL_EXTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.AUDITORIATableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.CIUDADESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.CLIENTESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.CLIENTES_CLIENTESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.COMPAÑIASTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.CONFIG_PARAMETROS_INTERNOSTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.DEPENDENCIA_EMPRESASTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.DEPENDENCIASTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.FORMATOS_FACTURATableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.IMAGENESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.NIVELES_EDUCATIVOSTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.PAISESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.PROFECIONESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.sysdiagramsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.VISITAS_INTEGRAL_EXTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.ZONASTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.PISTASTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.vTIPOS_CLIENTETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.BAREMOSTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.vTIPOS_SANGRETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.vLATERALIDADESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.vESTADO_CIVILTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.vSEXOTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.CLIENTES_ANTECEDENTES_MEDICOSTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.ANTECEDENTES_MEDICOSTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.TIPO_ANTECEDENTE_MEDICOTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.CLIENTES_ANTECEDENTES_LABORALESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.CLASIFICACION_RIESGO_LABORALTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.CLASIFICACION_CONDICION_LABORALTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.CONDICIONES_LABORALESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.RIESGOS_LABORALESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.RIESGOS_ANTECEDENTE_LABORALTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.CONDICIONES_ANTECEDENTE_LABORALTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.EQUIPOS_LABORALESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.EQUIPOS_ANTECEDENTE_LABORALTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.ARCHIVOSTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SisSalud.DataSet_IPSSTableAdapters.TableAdapterManager.UpdateUpdatedRows(SisSalud.DataSet_IPSS,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SisSalud.DataSet_IPSSTableAdapters.TableAdapterManager.UpdateInsertedRows(SisSalud.DataSet_IPSS,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SisSalud.DataSet_IPSSTableAdapters.TableAdapterManager.UpdateDeletedRows(SisSalud.DataSet_IPSS,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SisSalud.DataSet_IPSSTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SisSalud.DataSet_IPSSTableAdapters.TableAdapterManager.UpdateAll(SisSalud.DataSet_IPSS)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSSTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.accidentelabDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.ANALISIS_INTERCONSULTADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.ANALISIS_LICENCIADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.antecedenteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.antecedentelabDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.areanegocioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.aseguradoraDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.aseguradoraempresaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.astminformeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.astmpruebaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.astmresultadoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.AUDITORIADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.centrocostoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.centrosaludivssDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.chequeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.citaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.ciudadDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.clasifdiagnoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.clasifreposoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.compraDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.compracomppagoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.compromisopagoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.consultaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.consultadiagnosticoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.consultaexamenDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.consultarecdigDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.consultorioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.consultorioempresaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.controlDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.ctabancariaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.ctacontableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.cuentaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.DATOS_IFEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.dependenciaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.DET_ING_NO_MIGRADODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.detallefacturaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.detallenotacreditoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.detallenotadebitoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.diagnosticoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.diatrabajoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.dosisDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.empresaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.entornotrabajoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.examegrupoexameDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.examenDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.factservinteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.facturaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.grupoexamenDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.gruposervicioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.informemedicolibreDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.ingresoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.ingresorecdigDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.INGRESOS_ANULADOS_MASIVAMENTE_24032023DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.insumoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.insumoaplicadoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.licenciaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.LICENCIA_16032023DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.limitacionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.limitacionesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.limitacionLabDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.listaresultadoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.maestroDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.MANBITACORA_SINCRONIZACIONDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.medicinaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.medienvifactDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.monedaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.MTTP_MAYODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.notacreditoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.notadebitoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.notalargaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.ordenreferenciaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.pacienteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.PACIENTE_tempDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.pacienteantDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.pacientefamiliarDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.pacienterecdigDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.pacienteS_DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.pacientes_depurados_por_duplicidad_cedula_14032023DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.pacientes_depurados_por_duplicidad_cedula_14032023_inactivosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.PACIENTES_ELIMINADOS_15032023DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.pacientetipantDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.pagoscompraDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.pagosfacturaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.perfilinsumoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.perfilservextDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.perfilservicioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.perfilservintDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.presentacionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.presupuestoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.presupuestoinsumoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.presupuestoservextDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.presupuestoservintDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.profesionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.proveedorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.resultreubicDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.reubicacionlabDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.reubicacionlabresultadoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.servicioexternoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.serviciointernoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.serviciointerno_3072023DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.serviexteraplicDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.serviinteraplicDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.serviinteraplic_NO_MIGRADO_22032023DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.sysdiagramsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.tasacambioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.TEMP_CAMBIOS_CODIGOSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.TEMP_RELACION_CLIENTESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.tipoantecedenteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.tiporetencionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.tratamientoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.traza_licenciasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.usuarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.zonaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.accidentelabRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.ANALISIS_INTERCONSULTARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.ANALISIS_LICENCIARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.antecedenteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.antecedentelabRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.areanegocioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.aseguradoraRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.aseguradoraempresaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.astminformeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.astmpruebaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.astmresultadoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.AUDITORIARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.centrocostoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.centrosaludivssRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.chequeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.citaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.ciudadRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.clasifdiagnoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.clasifreposoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.compraRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.compracomppagoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.compromisopagoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.consultaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.consultadiagnosticoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.consultaexamenRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.consultarecdigRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.consultorioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.consultorioempresaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.controlRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.ctabancariaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.ctacontableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.cuentaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.DATOS_IFERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.dependenciaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.DET_ING_NO_MIGRADORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.detallefacturaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.detallenotacreditoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.detallenotadebitoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.diagnosticoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.diatrabajoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.dosisRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.empresaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.entornotrabajoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.examegrupoexameRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.examenRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.factservinteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.facturaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.grupoexamenRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.gruposervicioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.informemedicolibreRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.ingresoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.ingresorecdigRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.INGRESOS_ANULADOS_MASIVAMENTE_24032023Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.insumoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.insumoaplicadoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.licenciaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.LICENCIA_16032023Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.limitacionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.limitacionesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.limitacionLabRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.listaresultadoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.maestroRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.MANBITACORA_SINCRONIZACIONRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.medicinaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.medienvifactRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.monedaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.MTTP_MAYORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.notacreditoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.notadebitoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.notalargaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.ordenreferenciaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.pacienteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.PACIENTE_tempRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.pacienteantRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.pacientefamiliarRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.pacienterecdigRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.pacienteS_Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.pacientes_depurados_por_duplicidad_cedula_14032023Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.pacientes_depurados_por_duplicidad_cedula_14032023_inactivosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.PACIENTES_ELIMINADOS_15032023Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.pacientetipantRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.pagoscompraRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.pagosfacturaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.perfilinsumoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.perfilservextRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.perfilservicioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.perfilservintRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.presentacionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.presupuestoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.presupuestoinsumoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.presupuestoservextRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.presupuestoservintRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.profesionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.proveedorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.resultreubicRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.reubicacionlabRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.reubicacionlabresultadoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.servicioexternoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.serviciointernoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.serviciointerno_3072023Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.serviexteraplicRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.serviinteraplicRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.serviinteraplic_NO_MIGRADO_22032023Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.sysdiagramsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.tasacambioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.TEMP_CAMBIOS_CODIGOSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.TEMP_RELACION_CLIENTESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.tipoantecedenteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.tiporetencionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.tratamientoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.traza_licenciasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.usuarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.zonaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.accidentelabRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.ANALISIS_INTERCONSULTARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.ANALISIS_LICENCIARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.antecedenteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.antecedentelabRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.areanegocioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.aseguradoraRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.aseguradoraempresaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.astminformeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.astmpruebaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.astmresultadoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.AUDITORIARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.centrocostoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.centrosaludivssRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.chequeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.citaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.ciudadRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.clasifdiagnoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.clasifreposoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.compraRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.compracomppagoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.compromisopagoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.consultaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.consultadiagnosticoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.consultaexamenRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.consultarecdigRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.consultorioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.consultorioempresaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.controlRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.ctabancariaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.ctacontableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.cuentaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.DATOS_IFERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.dependenciaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.DET_ING_NO_MIGRADORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.detallefacturaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.detallenotacreditoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.detallenotadebitoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.diagnosticoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.diatrabajoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.dosisRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.empresaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.entornotrabajoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.examegrupoexameRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.examenRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.factservinteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.facturaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.grupoexamenRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.gruposervicioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.informemedicolibreRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.ingresoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.ingresorecdigRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.INGRESOS_ANULADOS_MASIVAMENTE_24032023RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.insumoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.insumoaplicadoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.licenciaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.LICENCIA_16032023RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.limitacionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.limitacionesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.limitacionLabRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.listaresultadoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.maestroRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.MANBITACORA_SINCRONIZACIONRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.medicinaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.medienvifactRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.monedaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.MTTP_MAYORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.notacreditoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.notadebitoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.notalargaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.ordenreferenciaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.pacienteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.PACIENTE_tempRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.pacienteantRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.pacientefamiliarRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.pacienterecdigRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.pacienteS_RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.pacientes_depurados_por_duplicidad_cedula_14032023RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.pacientes_depurados_por_duplicidad_cedula_14032023_inactivosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.PACIENTES_ELIMINADOS_15032023RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.pacientetipantRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.pagoscompraRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.pagosfacturaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.perfilinsumoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.perfilservextRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.perfilservicioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.perfilservintRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.presentacionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.presupuestoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.presupuestoinsumoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.presupuestoservextRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.presupuestoservintRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.profesionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.proveedorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.resultreubicRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.reubicacionlabRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.reubicacionlabresultadoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.servicioexternoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.serviciointernoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.serviciointerno_3072023RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.serviexteraplicRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.serviinteraplicRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.serviinteraplic_NO_MIGRADO_22032023RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.sysdiagramsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.tasacambioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.TEMP_CAMBIOS_CODIGOSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.TEMP_RELACION_CLIENTESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.tipoantecedenteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.tiporetencionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.tratamientoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.traza_licenciasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.usuarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral.zonaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_Integral">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.accidentelabTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.ANALISIS_INTERCONSULTATableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.ANALISIS_LICENCIATableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.antecedenteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.antecedentelabTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.areanegocioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.aseguradoraTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.aseguradoraempresaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.astminformeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.astmpruebaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.astmresultadoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.AUDITORIATableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.centrocostoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.centrosaludivssTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.chequeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.citaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.ciudadTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.clasifdiagnoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.clasifreposoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.compraTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.compracomppagoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.compromisopagoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.consultaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.consultadiagnosticoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.consultaexamenTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.consultarecdigTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.consultorioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.consultorioempresaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.controlTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.ctabancariaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.ctacontableTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.cuentaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.DATOS_IFETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.dependenciaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.DET_ING_NO_MIGRADOTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.detallefacturaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.detallenotacreditoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.detallenotadebitoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.diagnosticoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.diatrabajoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.dosisTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.empresaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.entornotrabajoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.examegrupoexameTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.examenTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.factservinteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.facturaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.grupoexamenTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.gruposervicioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.informemedicolibreTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.ingresoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.ingresorecdigTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.INGRESOS_ANULADOS_MASIVAMENTE_24032023TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.insumoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.insumoaplicadoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.licenciaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.LICENCIA_16032023TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.limitacionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.limitacionesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.limitacionLabTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.listaresultadoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.maestroTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.MANBITACORA_SINCRONIZACIONTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.medicinaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.medienvifactTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.monedaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.MTTP_MAYOTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.notacreditoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.notadebitoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.notalargaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.ordenreferenciaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.pacienteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.PACIENTE_tempTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.pacienteantTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.pacientefamiliarTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.pacienterecdigTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.pacienteS_TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.pacientes_depurados_por_duplicidad_cedula_14032023TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.pacientes_depurados_por_duplicidad_cedula_14032023_inactivosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.PACIENTES_ELIMINADOS_15032023TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.pacientetipantTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.pagoscompraTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.pagosfacturaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.perfilinsumoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.perfilservextTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.perfilservicioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.perfilservintTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.presentacionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.presupuestoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.presupuestoinsumoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.presupuestoservextTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.presupuestoservintTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.profesionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.proveedorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.resultreubicTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.reubicacionlabTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.reubicacionlabresultadoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.servicioexternoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.serviciointernoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.serviciointerno_3072023TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.serviexteraplicTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.serviinteraplicTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.serviinteraplic_NO_MIGRADO_22032023TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.sysdiagramsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.tasacambioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.TEMP_CAMBIOS_CODIGOSTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.TEMP_RELACION_CLIENTESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.tipoantecedenteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.tiporetencionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.tratamientoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.traza_licenciasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.usuarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.zonaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SisSalud.DataSet_IntegralTableAdapters.TableAdapterManager.UpdateUpdatedRows(SisSalud.DataSet_Integral,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SisSalud.DataSet_IntegralTableAdapters.TableAdapterManager.UpdateInsertedRows(SisSalud.DataSet_Integral,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SisSalud.DataSet_IntegralTableAdapters.TableAdapterManager.UpdateDeletedRows(SisSalud.DataSet_Integral,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SisSalud.DataSet_IntegralTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SisSalud.DataSet_IntegralTableAdapters.TableAdapterManager.UpdateAll(SisSalud.DataSet_Integral)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SisSalud.DataSet_IntegralTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS_FILES.ARCHIVOSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS_FILES.ARCHIVOSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS_FILES.ARCHIVOSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS_FILES">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS_FILESTableAdapters.ARCHIVOSTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SisSalud.DataSet_IPSS_FILESTableAdapters.TableAdapterManager.UpdateUpdatedRows(SisSalud.DataSet_IPSS_FILES,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SisSalud.DataSet_IPSS_FILESTableAdapters.TableAdapterManager.UpdateInsertedRows(SisSalud.DataSet_IPSS_FILES,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SisSalud.DataSet_IPSS_FILESTableAdapters.TableAdapterManager.UpdateDeletedRows(SisSalud.DataSet_IPSS_FILES,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SisSalud.DataSet_IPSS_FILESTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SisSalud.DataSet_IPSS_FILESTableAdapters.TableAdapterManager.UpdateAll(SisSalud.DataSet_IPSS_FILES)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS_FILESTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS_FILESTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SisSalud.DataSet_IPSS_FILESTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
