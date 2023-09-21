@@ -314,7 +314,7 @@ Partial Class FrmVisita
         DataGridViewCellStyle2.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle2.ForeColor = System.Drawing.Color.Black
         DataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle2.SelectionForeColor = System.Drawing.Color.Black
         DataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
         Me.GRID_CONCEPTOS.DefaultCellStyle = DataGridViewCellStyle2
         Me.GRID_CONCEPTOS.EnableHeadersVisualStyles = False
@@ -492,7 +492,7 @@ Partial Class FrmVisita
         DataGridViewCellStyle5.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle5.ForeColor = System.Drawing.Color.Black
         DataGridViewCellStyle5.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle5.SelectionForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle5.SelectionForeColor = System.Drawing.Color.Black
         DataGridViewCellStyle5.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
         Me.GRID_PROCEDIMIENTOS.DefaultCellStyle = DataGridViewCellStyle5
         Me.GRID_PROCEDIMIENTOS.EnableHeadersVisualStyles = False
@@ -563,7 +563,7 @@ Partial Class FrmVisita
         Me.TabPage9.Padding = New System.Windows.Forms.Padding(3)
         Me.TabPage9.Size = New System.Drawing.Size(1270, 334)
         Me.TabPage9.TabIndex = 4
-        Me.TabPage9.Text = "Entrevista clinica***"
+        Me.TabPage9.Text = "Entrevista clinica"
         Me.TabPage9.UseVisualStyleBackColor = True
         '
         'TextBoxX28
@@ -672,7 +672,7 @@ Partial Class FrmVisita
         DataGridViewCellStyle8.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle8.ForeColor = System.Drawing.Color.Black
         DataGridViewCellStyle8.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle8.SelectionForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle8.SelectionForeColor = System.Drawing.Color.Black
         DataGridViewCellStyle8.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
         Me.GRID_EXAMENES.DefaultCellStyle = DataGridViewCellStyle8
         Me.GRID_EXAMENES.EnableHeadersVisualStyles = False
@@ -786,7 +786,7 @@ Partial Class FrmVisita
         DataGridViewCellStyle11.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle11.ForeColor = System.Drawing.Color.Black
         DataGridViewCellStyle11.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle11.SelectionForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle11.SelectionForeColor = System.Drawing.Color.Black
         DataGridViewCellStyle11.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
         Me.GRID_DIAGNOSTICOS.DefaultCellStyle = DataGridViewCellStyle11
         Me.GRID_DIAGNOSTICOS.EnableHeadersVisualStyles = False
@@ -874,7 +874,7 @@ Partial Class FrmVisita
         DataGridViewCellStyle14.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle14.ForeColor = System.Drawing.Color.Black
         DataGridViewCellStyle14.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle14.SelectionForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle14.SelectionForeColor = System.Drawing.Color.Black
         DataGridViewCellStyle14.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
         Me.GRID_TRATAMIENTOS.DefaultCellStyle = DataGridViewCellStyle14
         Me.GRID_TRATAMIENTOS.EnableHeadersVisualStyles = False
@@ -978,7 +978,7 @@ Partial Class FrmVisita
         DataGridViewCellStyle17.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle17.ForeColor = System.Drawing.Color.Black
         DataGridViewCellStyle17.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle17.SelectionForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle17.SelectionForeColor = System.Drawing.Color.Black
         DataGridViewCellStyle17.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
         Me.GRID_RECOMENDACIONES.DefaultCellStyle = DataGridViewCellStyle17
         Me.GRID_RECOMENDACIONES.EnableHeadersVisualStyles = False
@@ -1330,7 +1330,7 @@ Partial Class FrmVisita
         DataGridViewCellStyle20.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         DataGridViewCellStyle20.ForeColor = System.Drawing.Color.Black
         DataGridViewCellStyle20.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle20.SelectionForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle20.SelectionForeColor = System.Drawing.Color.Black
         DataGridViewCellStyle20.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
         Me.DataGridViewX6.DefaultCellStyle = DataGridViewCellStyle20
         Me.DataGridViewX6.EnableHeadersVisualStyles = False
