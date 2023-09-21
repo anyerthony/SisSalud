@@ -579,6 +579,7 @@ Partial Class FrmVisita
         Me.TextBoxX28.PreventEnterBeep = True
         Me.TextBoxX28.Size = New System.Drawing.Size(1176, 56)
         Me.TextBoxX28.TabIndex = 31
+        Me.TextBoxX28.Text = "Anyerson"
         '
         'TextBoxX20
         '
